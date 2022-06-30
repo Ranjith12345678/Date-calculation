@@ -1,0 +1,1 @@
+DATE(VALUE(RIGHT(SampleDate__c,4)), VALUE(MID(SampleDate__c , 4, 2)) , VALUE(LEFT(SampleDate__c , 2)))
