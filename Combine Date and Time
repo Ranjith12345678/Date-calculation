@@ -1,0 +1,1 @@
+DATETIMEVALUE(TEXT( Sample_Date_Time__c )+" " +TEXT( Sample_Time_Formula__c ))
